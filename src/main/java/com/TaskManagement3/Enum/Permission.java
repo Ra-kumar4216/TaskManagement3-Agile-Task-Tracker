@@ -1,0 +1,7 @@
+package com.TaskManagement3.Enum;
+
+public enum Permission {
+	
+	ISSUE_VIEW,ISSUE_CREATE,ISSU_EEDIT,ISSUE_DELETE,COMMENT_ADD,COMMENT_DELETE,USER_MANAGE
+
+}
